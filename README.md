@@ -2,7 +2,7 @@
 
   <!-- Header Typing Animation Banner -->
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+YOUR_NAME+%F0%9F%91%8B;Robotics+%26+Embodied+AI+Engineer;3D+Computer+Vision+%7C+Deep+Learning+Specialist;Building+Intelligent+Autonomous+Systems+with+ROS+2" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=Hi+there,+Rico+Firmansyah+%F0%9F%91%8B;Robotics+%26+Embodied+AI+Engineer;3D+Computer+Vision+%7C+Deep+Learning+Specialist;Building+Intelligent+Autonomous+Systems+with+ROS+2" alt="Typing SVG" />
   </a>
 
   <p align="center">
